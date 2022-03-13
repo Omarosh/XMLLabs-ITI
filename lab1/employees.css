@@ -1,0 +1,49 @@
+
+
+employees {
+    background-color: #00517c;
+}
+
+employee {
+    display: block;
+    margin: 30pt;
+    border: 2px solid rgb(0, 255, 136);
+    padding: 10pt;
+    width: 40%;
+    text-align: center;
+}
+
+name {
+    font-size: 18pt;
+    color: #ffffff;
+    display: block;
+}
+
+phone {
+    font-size: 14pt;
+    color: #03e486;
+    display: block;
+}
+
+phone[type="home"] {
+    color: rgb(166, 255, 166);
+}
+
+phone[type="work"] {
+    color: yellow;
+}
+
+phone[type="mobile"] {
+    color: rgb(1, 209, 216);
+}
+
+address {
+    font-size: 14pt;
+    color: #03e486;
+    display: block;
+}
+
+email {
+    font-size: 14pt;
+    color: #d1f821;
+}

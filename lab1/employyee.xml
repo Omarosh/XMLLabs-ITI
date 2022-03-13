@@ -1,0 +1,53 @@
+﻿<?xml-stylesheet type="text/css" href="employees.css"?>
+
+<employees>
+    <employee>
+        <name>Omar</name>
+        <phones>
+            <phone type="home">034262293</phone>
+            <phone type="work">ITI</phone>
+            <phone type="mobile">01141944916</phone>
+        </phones>
+        <address>
+            <street>street,</street>
+            <buildingNumber>33,</buildingNumber>
+            <Region>MOharrambke,</Region>
+            <city>Alex</city>
+            <country>Egy</country>
+        </address>
+
+        <email>omo@gmail.com</email>
+    </employee>
+    <employee>
+        <name>MADDISON</name>
+        <phones>
+            <phone type="home">13413</phone>
+            <phone type="work">4151</phone>
+            <phone type="mobile">51313</phone>
+        </phones>
+        <address>
+            <street>st</street>
+            <buildingNumber>222</buildingNumber>
+            <Region>Abosliman</Region>
+            <city>Alex</city>
+            <country>Egy</country>
+        </address>
+        <email>ahmed@gmail.com</email>
+    </employee>
+    <employee>
+        <name>Hamada</name>
+        <phones>
+            <phone type="home">13413</phone>
+            <phone type="work">4151</phone>
+            <phone type="mobile">51313</phone>
+        </phones>
+        <address>
+            <street>st</street>
+            <buildingNumber>222</buildingNumber>
+            <Region>SIDI BIshr</Region>
+            <city>Alex</city>
+            <country>Egy</country>
+        </address>
+        <email>ahmed@gmail.com</email>
+    </employee>
+</employees>

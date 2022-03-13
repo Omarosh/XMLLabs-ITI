@@ -1,0 +1,60 @@
+
+
+Library {
+    background-color: #00517c;
+}
+
+book {
+    display: block;
+    margin: 30pt;
+    border: 2px solid rgb(0, 255, 136);
+    padding: 10pt;
+    width: 40%;
+    text-align: center;
+}
+
+author {
+    font-size: 18pt;
+    color: #ffffff;
+    display: block;
+}
+
+preface {
+    font-size: 14pt;
+    color: #03e486;
+    display: block;
+}
+
+parts {
+    padding: 10pt;
+    
+}
+
+part {
+    padding: 5pt;
+}
+chapters{
+    display: block;
+}
+chapter{
+    display: block;
+}
+summary{
+    display: block;
+    color: #d1f821;
+    
+}
+
+sections {
+    padding: 5pt;
+}
+section {
+    margin-bottom: 5pt;
+    display: block;
+
+}
+section p{
+    display: block;
+    color: wheat;
+    font-size: 10px;
+}

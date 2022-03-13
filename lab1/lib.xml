@@ -1,0 +1,225 @@
+<?xml-stylesheet type="text/css" href="lib.css"?>
+
+<Library location="Alexaa" description="Library" librarian="yqa">
+    <book title="Book1" ISBN="12345">
+        <author>
+            <name>
+                <fname>Omar</fname>
+                <lname>Khattab</lname>
+            </name>
+            <age>30</age>
+        </author>
+        <preface>
+            preface
+        </preface>
+        <parts>
+            <part no='1' title="Part1">
+                <chapters>
+                    <chapter title="CH01">
+                        <summary>summary summary summary</summary>
+                        <sections>
+                            <section title="Section01">
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                            </section>
+                            <section title="Section02">
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                            </section>
+                        </sections>
+                    </chapter>
+                    <chapter title="CH02">
+                        <summary>summary summary summary</summary>
+                        <sections>
+                            <section title="Section01">
+
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                            </section>
+                            <section title="Section02">
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                            </section>
+                        </sections>
+                    </chapter>
+                </chapters>
+            </part>
+            <part no='1' title="Part1">
+                <chapters>
+                    <chapter title="CH01">
+                        <summary>summary summary summary</summary>
+                        <sections>
+                            <section title="Section01">
+
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                            </section>
+                            <section title="Section02">
+
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                            </section>
+                        </sections>
+                    </chapter>
+                    <chapter title="CH02">
+                        <summary>summary summary summary</summary>
+                        <sections>
+                            <section title="Section01">
+
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                            </section>
+                            <section title="Section02">
+
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                            </section>
+                        </sections>
+                    </chapter>
+                </chapters>
+            </part>
+        </parts>
+    </book>
+    <book title="Book2" ISBN="54321">
+        <author>
+            <name>
+                <fname>Mohamed</fname>
+                <lname>Ali Klay</lname>
+            </name>
+        </author>
+        <preface>
+            preface
+        </preface>
+        <parts>
+            <part no='1' title="Part1">
+                <chapters>
+                    <chapter title="CH01">
+                        <summary>summary</summary>
+                        <sections>
+                            <section title="Section01">
+                                <p> lorem </p>
+                                <p>lorem </p>
+                                <p>lorem </p>
+                            </section>
+                            <section title="Section02">
+                                <p>lorem lorem lorem lorem </p>
+                                <p>lorem lorem lorem lorem </p>
+                                <p>lorem lorem lorem lorem </p>
+                                <p>lorem lorem lorem lorem </p>
+                                <p>lorem lorem lorem lorem </p>
+                                <p>lorem lorem lorem lorem </p>
+                            </section>
+                        </sections>
+                    </chapter>
+                    <chapter title="CH02">
+                        <summary>summary summary summary</summary>
+                        <sections>
+                            <section title="Section01">
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                            </section>
+                            <section title="Section02">
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                            </section>
+                        </sections>
+                    </chapter>
+                </chapters>
+            </part>
+            <part no='1' title="Part1">
+                <chapters>
+                    <chapter title="CH01">
+                        <summary>summary summary summary</summary>
+                        <sections>
+                            <section title="Section01">
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                            </section>
+                            <section title="Section02">
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                            </section>
+                        </sections>
+                    </chapter>
+                    <chapter title="CH02">
+                        <summary>summary</summary>
+                        <sections>
+                            <section title="Section01">
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                            </section>
+                            <section title="Section02">
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                                <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                            </section>
+                        </sections>
+                    </chapter>
+                </chapters>
+            </part>
+        </parts>
+    </book>
+</Library>
