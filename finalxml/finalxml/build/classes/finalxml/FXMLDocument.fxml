@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+<AnchorPane id="AnchorPane" prefHeight="200" prefWidth="320" xmlns:fx="http://javafx.com/fxml/1" fx:controller="finalxml.FXMLDocumentController">
+    <children>
+      <TextField fx:id="name" layoutX="153.0" layoutY="111.0" prefHeight="25.0" prefWidth="240.0" />
+      <Text fx:id="nametxt" layoutX="59.0" layoutY="129.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Name" wrappingWidth="39.21092748641968">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Text>
+      <Text fx:id="phonetxt" layoutX="59.0" layoutY="175.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Phone">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Text>
+      <Text fx:id="addresstxt" layoutX="62.0" layoutY="219.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Address">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Text>
+      <Text fx:id="emailtxt" layoutX="62.0" layoutY="267.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Email">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Text>
+      <TextField fx:id="phone" layoutX="153.0" layoutY="157.0" prefHeight="25.0" prefWidth="240.0" />
+      <TextField fx:id="address" layoutX="151.0" layoutY="201.0" prefHeight="25.0" prefWidth="290.0" />
+      <TextField fx:id="email" layoutX="151.0" layoutY="249.0" prefHeight="25.0" prefWidth="339.0" />
+      <Button fx:id="prev" layoutX="141.0" layoutY="321.0" mnemonicParsing="false" onAction="#onprev" text="Prev">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <Button fx:id="next" layoutX="198.0" layoutY="321.0" mnemonicParsing="false" onAction="#onprev" text="Next">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <Button fx:id="insert" layoutX="260.0" layoutY="321.0" mnemonicParsing="false" onAction="#oninsert" prefHeight="30.0" prefWidth="57.0" text="Insert">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <Button fx:id="update" layoutX="329.0" layoutY="321.0" mnemonicParsing="false" onAction="#onupdate" prefHeight="30.0" prefWidth="72.0" text="Update">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <Button fx:id="save" layoutX="560.0" layoutY="321.0" mnemonicParsing="false" onAction="#onsave" prefHeight="30.0" prefWidth="72.0" text="Save">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <Button fx:id="delete" layoutX="480.0" layoutY="321.0" mnemonicParsing="false" onAction="#ondelete" prefHeight="30.0" prefWidth="72.0" text="delete">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <Text fx:id="idtxt" layoutX="62.0" layoutY="80.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Id">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Text>
+      <TextField fx:id="id" layoutX="153.0" layoutY="62.0" prefHeight="25.0" prefWidth="240.0" />
+      <Button fx:id="search" layoutX="410.0" layoutY="321.0" mnemonicParsing="false" onAction="#onsearch" text="Search">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+       </children>
+</AnchorPane>
